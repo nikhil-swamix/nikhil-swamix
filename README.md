@@ -6,4 +6,4 @@
 - ✈ im currently building Bots, and automating stuff like stock exchanges, crypto trading, GUI apps, cronjobs and A-Z automation. contact me if you want to get something automated.
 - 📫 How to reach me @ [instagram](https://www.instagram.com/_nikhil_swami_/) | [linkedin](https://www.linkedin.com/in/nikhilswamiofficial/)
 - ⚡ Fun Fact: even if it takes time id rather build things from scratch. in the process i explore new things and enjoy challenges. 
-- declaration: i particularly dont like people lazy and who watch movies serials/timepass in their free time, and later complain "life is unfair!","he/she got lucky".
+- i like opensource very much and contribute to community
