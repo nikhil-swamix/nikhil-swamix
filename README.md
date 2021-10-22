@@ -1,6 +1,6 @@
 # Hi there Im Nikhil Swami👋
 --------------
-
+- as you can see my github activity is constantly green, i achieved high level automation.
 
 - 🚄 My Tech Stack includes Python, AWS, Elasticbean, DynamoDB, Django, NGINX, WebScrapers, Javascript, Jquery, Bootstrap, and few custom Frameworks to suite my needs.
 - ✈ im currently building Bots, and automating stuff like stock exchanges, crypto trading, GUI apps, cronjobs and A-Z automation. contact me if you want to get something automated.
